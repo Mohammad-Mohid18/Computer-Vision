@@ -1,0 +1,18 @@
+# Personal photos used for enrollment — never commit raw face images
+dataset/
+
+# Pre-trained model binaries — large files, download separately (see README)
+*.onnx
+
+# Python virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS/editor junk
+.DS_Store
+.vscode/
+.idea/

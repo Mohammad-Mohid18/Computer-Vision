@@ -1,4 +1,4 @@
-import cv2
+import cv2   # type: ignore[import]
 
 for index in range(4):
     cap = cv2.VideoCapture(index)
