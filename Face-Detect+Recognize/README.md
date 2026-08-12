@@ -77,6 +77,8 @@ Expected sizes: detector ~230 KB, recognizer ~36 MB.
 
 ### 4. Build your dataset
 
+dataset if needed: https://www.kaggle.com/datasets/atulanandjha/lfwpeople?resource=download
+
 Create `dataset/<PersonName>/` for each person, with 3-5 clear photos:
 
 - Mostly front-facing, slight head turns (±15-30°) are fine and actually help.
