@@ -1,0 +1,5 @@
+.aider*
+.python-version
+# Python virtual environment
+venv/
+.venv/
