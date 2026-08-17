@@ -1,0 +1,12 @@
+# WhatsApp session tokens & personal data
+whatsapp_session/
+contacts.csv
+*.xlsx
+*.csv
+send_log.txt
+
+# Python environment & cache
+__pycache__/
+*.py[cod]
+.venv/
+env/
