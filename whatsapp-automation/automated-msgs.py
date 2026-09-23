@@ -11,7 +11,19 @@ from selenium.webdriver.support import expected_conditions as EC
 from webdriver_manager.chrome import ChromeDriverManager
 
 INPUT_FILE = "contacts.csv"
-DEFAULT_MESSAGE = "Hello! This is testing of a bulk automated messaging system."
+DEFAULT_MESSAGE = """Assalam-o-Alaikum! I'm Mohid, a Data Science student at IMSciences currently working as an AI Engineer at Code Club in Peshawar[cite: 1].
+
+I specialize in building production Generative AI systems—from autonomous voice agents to URL-to-video ad generators and enterprise RAG pipelines[cite: 1].
+
+I'm reaching out to see if your team is currently open to hiring an AI/ML Engineer or Python Automation Developer[cite: 1].
+
+Here is my GitHub & Resume for a quick look:
+- GitHub: github.com/Mohammad-Mohid18[cite: 1]
+- LinkedIn: linkedin.com/in/mohammad-mohid-162585361[cite: 1]
+
+Happy to share a quick demo of what I'm building or hop on a call if you're open to connecting[cite: 1].
+
+Thanks!"""
 DELAY_SECONDS = 5
 LOG_FILE = "send_log.txt"
 
